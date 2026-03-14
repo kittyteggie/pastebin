@@ -1,2 +1,2 @@
-# pastebin
-A simple pastebin done in Python
+# Pastebin
+A simple pastebin done in Python.
